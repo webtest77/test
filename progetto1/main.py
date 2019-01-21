@@ -5,4 +5,4 @@ Created on 21 gen 2019
 '''
 
 if __name__ == "__main__":
-    print "abc"
+    print "main"
